@@ -8,7 +8,7 @@ GUI for the Pokemon Go - NecroBot.GUI
  - Run  PokemonGO.NecroBot.GUI.exe
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen1.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGo.NecroBot.GUI/master/Screenshots/screen1.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen2.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen3.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen4.png "Screenshot")
