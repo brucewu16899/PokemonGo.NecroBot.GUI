@@ -15,5 +15,5 @@ GUI for the Pokemon Go - NecroBot.GUI
 
 
 ## Thanks to
-NecroBot.io
-And you
+- NecroBot.io
+- And you
