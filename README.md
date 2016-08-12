@@ -1,8 +1,8 @@
 #  PokemonGO.NecroBot.GUI
-GUI for the Pokemon Go - Necrobot
+GUI for the Pokemon Go - NecroBot.GUI
 
 ## Installation / Usage
- - Download the zip in the latest release https://github.com/hanncreator/PokemonGoBot.GUI/releases/tag/v0.3.3
+ - Download the zip in the latest release https://github.com/hanncreator/PokemonGoBot.GUI/releases
  - Unzip everything
  - Change the auth.json and config.json to suit your needs
  - Run  PokemonGO.NecroBot.GUI.exe
