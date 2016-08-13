@@ -26,7 +26,7 @@ Screenshots below are from an older version:
 ## Donations via Paypal
 
  - Donations  for developers always update
-   - https://goo.gl/JfKh90
+   - https://goo.gl/Gi35WZ
 
 ## Thanks to
 - NecroBot.io
