@@ -23,9 +23,9 @@ Screenshots below are from an older version:
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen3.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen4.png "Screenshot")
 
-## Donations
+## Donations via Paypal
 
- - Donations for developers always update
+ - Donations  for developers always update
    - https://goo.gl/JfKh90
 
 ## Thanks to
