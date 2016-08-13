@@ -19,7 +19,9 @@ auth.json
 
 
 ## Screenshots
+![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGo.NecroBot.GUI/master/Screenshots/screen0.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGo.NecroBot.GUI/master/Screenshots/screen1.png "Screenshot")
+Screenshots below are from an older version: 
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen2.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen3.png "Screenshot")
 ![Screenshot](https://raw.githubusercontent.com/hanncreator/PokemonGoBot.GUI/master/Screenshots/screen4.png "Screenshot")
